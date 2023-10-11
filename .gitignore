@@ -60,6 +60,7 @@ ExportedObj/
 /UCS001/*.aab
 /UCS001/*.unitypackage
 /UCS001/*.app
+/Build/*.*
 
 # Crashlytics generated file
 /UCS001/crashlytics-build.properties
